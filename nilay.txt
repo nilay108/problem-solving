@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+int a,b,sum;
+printf ("Enter two number");
+scanf (dzd",&a,&b);
+sum=a+b;
+printf("d",sum);
+rwu8o tq btSSSeturn 0;
+}
